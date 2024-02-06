@@ -115,6 +115,7 @@ body {
 }
 .figureCentro{
     margin: 3px auto;
+    
     display: block;
     max-width: 100%;
 }
